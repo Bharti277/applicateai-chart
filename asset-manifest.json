@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/userorder-applicateai/static/css/main.eccb68fe.chunk.css",
+    "main.js": "/userorder-applicateai/static/js/main.c5c8ca5c.chunk.js",
+    "main.js.map": "/userorder-applicateai/static/js/main.c5c8ca5c.chunk.js.map",
+    "runtime-main.js": "/userorder-applicateai/static/js/runtime-main.10b9a08f.js",
+    "runtime-main.js.map": "/userorder-applicateai/static/js/runtime-main.10b9a08f.js.map",
+    "static/js/2.5f236cf0.chunk.js": "/userorder-applicateai/static/js/2.5f236cf0.chunk.js",
+    "static/js/2.5f236cf0.chunk.js.map": "/userorder-applicateai/static/js/2.5f236cf0.chunk.js.map",
+    "index.html": "/userorder-applicateai/index.html",
+    "static/css/main.eccb68fe.chunk.css.map": "/userorder-applicateai/static/css/main.eccb68fe.chunk.css.map",
+    "static/js/2.5f236cf0.chunk.js.LICENSE.txt": "/userorder-applicateai/static/js/2.5f236cf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10b9a08f.js",
+    "static/js/2.5f236cf0.chunk.js",
+    "static/css/main.eccb68fe.chunk.css",
+    "static/js/main.c5c8ca5c.chunk.js"
+  ]
+}
